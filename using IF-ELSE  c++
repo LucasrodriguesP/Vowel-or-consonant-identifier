@@ -1,0 +1,45 @@
+#include <iostream>
+
+
+
+using namespace std;
+
+
+
+int main()
+
+{
+    
+         // declaração de variáveis
+    
+         char letra1;
+      
+             letra1 = 'a', 'e', 'i','o', 'u';
+      
+     
+        
+         // entrada de dados
+    
+         cout<<"digite uma letra: \n";
+ 
+         cin>> (letra1);
+    
+ 
+   
+         //saída de dados
+    
+         if  (letra1 == 'a' || letra1 == 'e' || letra1 == 'i' || letra1 == 'o' || letra1 == 'u')
+
+    
+       
+             cout <<"vogal";
+     
+    else
+      
+       cout<<"consoante";
+ 
+
+      
+    return 0;
+
+}
