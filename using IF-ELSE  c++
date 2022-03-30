@@ -14,9 +14,6 @@ int main()
     
          char letra1;
       
-             letra1 = 'a', 'e', 'i','o', 'u';
-      
-     
         
          // entrada de dados
     
